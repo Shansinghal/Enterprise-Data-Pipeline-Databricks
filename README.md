@@ -1,4 +1,5 @@
-# Atliqon – SportsBar Data Engineering Project
+# Making an unified Lakehouse Data Platform for Post-Acquisition Analytics (Databricks + AWS S3)
+
 
 ## Project Overview
 Atliqon, a well-established parent company, recently acquired SportsBar. While Atliqon’s data systems were mature and well-managed, SportsBar’s data existed in unstructured CSV files with no proper data pipelines.
